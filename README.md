@@ -1,3 +1,5 @@
+![Background]([https://your-white-background-image-url.com](https://img.freepik.com/free-photo/cement-texture_1194-5331.jpg))
+
 <h1 align="center">Hi 👋, I'm Tanishq Saini</h1>
 <h3 align="center">A passionate developer from India</h3>
 
