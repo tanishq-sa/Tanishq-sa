@@ -13,7 +13,7 @@
 
 🚀 I'm a BCA student at Christ University, Lavasa  
 🎮 Game Developer Intern at [Eklavya.me](https://www.eklavvya.me), working with React and game development tools  
-📱 Currently exploring Flutter and mobile app development  
+📱 Currently exploring Unity and Game Development
 💡 Believe in clean code, great UI, and powerful backend logic  
 🧠 Always learning and growing — from Discord bots to AI & Data Science  
 🏆  Winner at multiple university tech events
@@ -126,7 +126,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QJBH6yG2ZU)
 
 </div>
-
 ---
 
 ## 💭 Random Dev Quote
