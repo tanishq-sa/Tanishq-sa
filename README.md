@@ -34,12 +34,12 @@
 
 ### 💻 Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,cs" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,cs" />
 </p>
 
 ### 🌐 Web Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,react,angular,nextjs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,angular,nextjs,express,tailwind" />
 </p>
 
 ### 🗄️ Database Technologies
