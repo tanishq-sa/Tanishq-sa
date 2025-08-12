@@ -12,7 +12,7 @@
 <div align="left">
 
 🚀 I'm a BCA student at Christ University, Lavasa  
-🎮 Game Developer Intern at [Eklavya.me](https://www.eklavvya.me), working with React and game development tools  
+🎮 Game Developer Intern at [Eklavya.me](https://www.eklavya.me), working with React and game development tools  
 📱 Currently exploring Unity and Game development  
 💡 Believe in clean code, great UI, and powerful backend logic  
 🧠 Always learning and growing — from Discord bots to AI & Data Science  
