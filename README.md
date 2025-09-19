@@ -2,7 +2,7 @@
   
 # Hi there! 👋 I'm Tanishq Saini 🇮🇳
 
-### 🚀 BCA Student | 🎮 Game Developer Intern | 💡 Full-Stack Developer
+### 🚀 BCA Student  | 💡 Full-Stack Developer | 🎮 Want to be a Game Developer
 
 ---
 
@@ -12,7 +12,7 @@
 <div align="left">
 
 🚀 I'm a BCA student at Christ University, Lavasa  
-🎮 Game Developer Intern at [Eklavya.me](https://www.eklavya.me), working with React and game development tools  
+🎮 Completed Game Development Internship at [Eklavya.me](https://www.eklavvya.me), worked with React and game development tools  
 📱 Currently exploring Unity and Game development  
 💡 Believe in clean code, great UI, and powerful backend logic  
 🧠 Always learning and growing — from Discord bots to AI & Data Science  
@@ -108,7 +108,7 @@
 <div align="left">
 
 🏆 **Multiple University Tech Event Winner** - Recognized for technical excellence and innovation  
-🎮 **Game Developer Intern** - Contributing to real-world projects at Eklavya.me  
+🎮 **Completed Game Development Internship** - Contributed to real-world projects at Eklavya.me  
 🎓 **BCA Student** - Pursuing Computer Applications at Christ University, Lavasa
 
 </div>
