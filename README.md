@@ -37,11 +37,10 @@ Solved Problems: **8**
 
 ---
 
-## GitHub Analytics
+## 3D Contribution Graph
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tanishq-sa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-sa&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 ---
@@ -53,6 +52,5 @@ Solved Problems: **8**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishq-saini7)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tanishqsaini)
 [![LeetCode](https://img.shields.io/badge/LeetCode-tanishq--saini-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/tanishq-saini)
-
 
 </div>
