@@ -1,136 +1,58 @@
 <div align="center">
-  
-# Hi there! 👋 I'm Tanishq Saini 🇮🇳
 
-### 🚀 BCA Student  | 💡 Full-Stack Developer | 🎮 Want to be a Game Developer
+# Hi, I'm Tanishq Saini 👋
 
----
-
-</div>
-
-## 🧑‍💻 About Me
-<div align="left">
-
-🚀 I'm a BCA student at Christ University, Lavasa  
-🎮 Completed Game Development Internship at [Eklavya.me](https://www.eklavvya.me), worked with React and game development tools  
-📱 Currently exploring Unity and Game development  
-💡 Believe in clean code, great UI, and powerful backend logic  
-🧠 Always learning and growing — from Discord bots to AI & Data Science  
-🏆  Winner at multiple university tech events
+### BCA Student • Frontend Developer Intern • Full-Stack & Game Dev Enthusiast
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## About Me
+
+- 🎓 BCA student at Christ University, Lavasa
+- 💼 Frontend Developer Intern at **The Lev Labs Limited**
+- 🎮 Completed Game Development Internship at [Eklavya.me](https://www.eklavvya.me)
+- 🌱 Currently learning **Unity** and game development
+- 💡 Interested in clean UI, strong backend logic, AI, data science, and Discord bots
+- 🏆 Winner at multiple university tech events
+
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,cs,html,css,react,angular,nextjs,express,tailwind,mysql,mongodb,firebase,flutter,unity,git,github,postman,vercel,netlify" />
+</p>
+
+---
+
+## LeetCode Progress
+
+<!-- LEETCODE-STATS:START -->
+Solved Problems: **0**
+<!-- LEETCODE-STATS:END -->
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-tanishq--saini-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/tanishq-saini)
+
+---
+
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanishq-sa&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=1&rank=-C,-?" alt="tanishq-sa" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tanishq-sa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-sa&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 ---
 
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,cs" />
-</p>
-
-### 🌐 Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,ts,react,angular,nextjs,express,tailwind" />
-</p>
-
-### 🗄️ Database Technologies
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 📱 App Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,firebase" />
-</p>
-
-### ⚙️ DevOps & Deployment
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,postman" />
-</p>
-
-### 📚 Libraries & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,discord" />
-</p>
-
-### 🎮 Game Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=unity" />
-</p>
-
-### 🎨 Design & Graphics
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=svg" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanishq-sa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanishq-sa&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanishq-sa&theme=tokyonight" alt="tanishq-sa" />
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="left">
-
-- 🔭 **Working on:** React-based game development projects at Eklavya.me
-- 🌱 **Learning:** Unity for game development
-- 👯 **Looking to collaborate on:** Open-source projects and innovative tech solutions
-- 🤝 **Seeking help with:** Advanced game development techniques and mobile app architecture
-- 💬 **Ask me about:** Web development, game development, Discord bots, and university tech events
-- ⚡ **Fun fact:** From Discord bots to game development - I love exploring diverse tech domains!
-
-</div>
-
----
-
-## 🏅 Achievements & Leadership
-
-<div align="left">
-
-🏆 **Multiple University Tech Event Winner** - Recognized for technical excellence and innovation  
-🎮 **Completed Game Development Internship** - Contributed to real-world projects at Eklavya.me  
-🎓 **BCA Student** - Pursuing Computer Applications at Christ University, Lavasa
-
-</div>
-
----
-
-## 🤝 Let's Connect!
+## Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishq-saini7)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/taniishq_saini)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/tanishq-saini)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tanishqsaini)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QJBH6yG2ZU)
+[![LeetCode](https://img.shields.io/badge/LeetCode-tanishq--saini-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/tanishq-saini)
 
-</div>
 
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
