@@ -2,7 +2,7 @@
 
 # Hi, I'm Tanishq Saini 👋
 
-### BCA Student • Frontend Developer Intern • Full-Stack & Game Dev Enthusiast
+### BCA (Honours with Research) Student at Christ University | Aspiring Systems & Software Engineer | Java & Cloud Architecture Enthusiast
 
 </div>
 
@@ -10,19 +10,30 @@
 
 ## About Me
 
-- 🎓 BCA student at Christ University, Lavasa
+- 🎓 BCA (Honours with Research) student at Christ University, Lavasa
 - 💼 Frontend Developer Intern at **The Lev Labs Limited**
-- 🎮 Completed Game Development Internship at [Eklavya.me](https://www.eklavvya.me)
-- 🌱 Currently learning **Unity** and game development
-- 💡 Interested in clean UI, strong backend logic, AI, data science, and Discord bots
+- ☕ Building strong foundations in **Java, backend development, databases, and system design**
+- 🎮 Previously completed a Game Development Internship at [Eklavya.me](https://www.eklavvya.me)
+- 🌱 Exploring cloud architecture and scalable software systems
 - 🏆 Winner at multiple university tech events
 
 ---
 
 ## Tech Stack
 
+### Primary Focus
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,cs,html,css,react,angular,nextjs,express,tailwind,mysql,mongodb,firebase,flutter,unity,git,github,postman,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb" />
+</p>
+
+### Secondary Experience
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,cpp" />
+</p>
+
+### Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
 </p>
 
 ---
@@ -40,7 +51,7 @@ Solved Problems: **8**
 ## 3D Contribution Graph
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" />
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="Tanishq's GitHub contribution graph" />
 </div>
 
 ---
