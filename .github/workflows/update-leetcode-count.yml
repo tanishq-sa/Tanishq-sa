@@ -1,0 +1,66 @@
+name: Update LeetCode Count
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-count:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update solved problem count
+        env:
+          GH_TOKEN: ${{ secrets.LEETCODE_REPO_TOKEN }}
+        run: |
+          python3 <<'PY'
+          import os
+          import re
+          import urllib.request
+
+          repo = "tanishq-sa/LeetCodeSoloution"
+          readme_url = f"https://raw.githubusercontent.com/{repo}/main/README.md"
+          token = os.environ.get("GH_TOKEN", "")
+
+          request = urllib.request.Request(readme_url)
+          if token:
+              request.add_header("Authorization", f"Bearer {token}")
+
+          with urllib.request.urlopen(request) as response:
+              leetcode_readme = response.read().decode("utf-8")
+
+          solved = len(re.findall(r"^\|\s*\d+\s*\|", leetcode_readme, re.MULTILINE))
+
+          with open("README.md", "r", encoding="utf-8") as file:
+              profile_readme = file.read()
+
+          updated = re.sub(
+              r"<!-- LEETCODE-STATS:START -->.*?<!-- LEETCODE-STATS:END -->",
+              f"<!-- LEETCODE-STATS:START -->\nSolved Problems: **{solved}**\n<!-- LEETCODE-STATS:END -->",
+              profile_readme,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w", encoding="utf-8") as file:
+              file.write(updated)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No README changes"
+          else
+            git commit -m "Update LeetCode solved count"
+            git push
+          fi
