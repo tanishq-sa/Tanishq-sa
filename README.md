@@ -4,6 +4,8 @@
 
 ### BCA (Honours with Research) Student at Christ University | Aspiring Systems & Software Engineer | Java & Cloud Architecture Enthusiast
 
+🌐 **Portfolio:** https://tanishqsa.dev
+
 </div>
 
 ---
@@ -60,6 +62,7 @@ Solved Problems: **11**
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-tanishqsa.dev-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tanishqsa.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishq-saini7)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/tanishqsaini)
 [![LeetCode](https://img.shields.io/badge/LeetCode-tanishq--saini-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/tanishq-saini)
