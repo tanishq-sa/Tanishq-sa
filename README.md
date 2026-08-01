@@ -4,7 +4,7 @@
 
 ### BCA (Honours with Research) Student at Christ University | Aspiring Systems & Software Engineer | Java & Cloud Architecture Enthusiast
 
-🌐 **Portfolio:** https://tanishqsa.dev
+### 🌐 [tanishqsa.dev](https://tanishqsa.dev)
 
 </div>
 
