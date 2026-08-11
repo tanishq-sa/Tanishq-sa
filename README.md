@@ -43,7 +43,7 @@
 ## LeetCode Progress
 
 <!-- LEETCODE-STATS:START -->
-Solved Problems: **17**
+Solved Problems: **20**
 <!-- LEETCODE-STATS:END -->
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-tanishq--saini-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/tanishq-saini)
